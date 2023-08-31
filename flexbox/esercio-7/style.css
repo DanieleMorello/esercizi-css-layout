@@ -1,0 +1,9 @@
+.container {
+  display: flex;
+  gap: 20px;
+}
+
+.flex-item {
+  padding: 10px;
+  border: 1px solid;
+}
