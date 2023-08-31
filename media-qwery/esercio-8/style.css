@@ -1,0 +1,7 @@
+@media (max-width: 900px) {
+  p {
+    background-color: #ffff00;
+    padding: 10px;
+    text-align: center;
+  }
+}
